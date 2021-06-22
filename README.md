@@ -1,4 +1,4 @@
-# Diagrama de entidad relación
+# Diagrama Entidad Relación
 
 Resolución
 
